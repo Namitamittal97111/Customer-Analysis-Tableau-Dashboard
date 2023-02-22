@@ -1,5 +1,5 @@
 # Customer-Analysis-Tableau-Dashboard
-##The customer analysis project using tableau is designed to provide insights into customer behavior and preferences to help businesses make data driven decisions. The project involves analyzing customer data to identify patterns, trends, and correlation that can be used to improve customer experience and drive revenue growth.
+## The customer analysis project using tableau is designed to provide insights into customer behavior and preferences to help businesses make data driven decisions. The project involves analyzing customer data to identify patterns, trends, and correlation that can be used to improve customer experience and drive revenue growth.
 
 
 The dashboard includes several key visualizations that provide a comprehensive overview of customer-related metrics, including customer demographics, purchase history, and customer loyalty. The dashboard also includes metrics related to customer engagement, such as email open rates, click-through rates, and social media engagement levels.
